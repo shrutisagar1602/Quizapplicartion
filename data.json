@@ -1,0 +1,49 @@
+{
+    "Questions": [
+        {
+            "Quiz": "Q.1) What does HTML stands for?",
+            "option1": "Hyper Type Markup Language",
+            "option2": "Hyper Tool Markup Language",
+            "option3": "Hyper Link and Text Markup Language",
+            "option4": "Hyper Text Markup Language",
+            "anwser": "Hyper Text Markup Language"
+
+        },
+        {
+            "Quiz": "Q.2) Javascript is an _______ language?",
+            "option1": "Object-Oriented",
+            "option2": "Object-Based",
+            "option3": "Procedural",
+            "option4": "None of these",
+            "anwser": "Object-Oriented"
+
+        },
+        {
+            "Quiz": "Q.3) If we want to place text around an image, which CSS property should we use?",
+            "option1": "push",
+            "option2": "float",
+            "option3": "align",
+            "option4": "wrap",
+            "anwser": "float"
+
+        },
+        {
+            "Quiz": "Q.4) A page designed in HTML is called _____",
+            "option1": "Application",
+            "option2": "Cover page",
+            "option3": "Front-end",
+            "option4": "Web Page",
+            "anwser": "Web Page"
+
+        },
+        {
+            "Quiz": "Q.5) Choose the correct HTML tag for a large title.",
+            "option1": "H1",
+            "option2": "Heading",
+            "option3": "Head",
+            "option4": "H6",
+            "anwser": "H1"
+
+        }
+    ]
+}
